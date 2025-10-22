@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 45f6f5cc166ecdd41bb83d32ded511dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7355653399005073219
+    second: Preview (14)SoftPink_0
+  - first:
+      213: -8287384100172919952
+    second: Preview (14)SoftPink_1
+  - first:
+      213: 3971988247961774942
+    second: Preview (14)SoftPink_2
+  - first:
+      213: 8947074932054676766
+    second: Preview (14)SoftPink_3
+  - first:
+      213: 7503158043627097982
+    second: Preview (14)SoftPink_4
+  - first:
+      213: -1902984637960201964
+    second: Preview (14)SoftPink_5
+  - first:
+      213: -7039922376309933072
+    second: Preview (14)SoftPink_6
+  - first:
+      213: 6330196819837327943
+    second: Preview (14)SoftPink_7
+  - first:
+      213: 1768966838647688422
+    second: Preview (14)SoftPink_8
+  - first:
+      213: -7991324897735587928
+    second: Preview (14)SoftPink_9
+  - first:
+      213: 2753222506484648174
+    second: Preview (14)SoftPink_10
+  - first:
+      213: 4969566433402440513
+    second: Preview (14)SoftPink_11
+  - first:
+      213: 4301196803209505803
+    second: Preview (14)SoftPink_12
+  - first:
+      213: 3798650178131693465
+    second: Preview (14)SoftPink_13
+  - first:
+      213: -1441693815303006192
+    second: Preview (14)SoftPink_14
+  - first:
+      213: -7782626230434434113
+    second: Preview (14)SoftPink_15
+  - first:
+      213: -5682894492748359755
+    second: Preview (14)SoftPink_16
+  - first:
+      213: -2362414358141810068
+    second: Preview (14)SoftPink_17
+  - first:
+      213: -5298735770150665186
+    second: Preview (14)SoftPink_18
+  - first:
+      213: 6609729918760148770
+    second: Preview (14)SoftPink_19
+  - first:
+      213: -1284401131451818231
+    second: Preview (14)SoftPink_20
+  - first:
+      213: 7463072486066039787
+    second: Preview (14)SoftPink_21
+  - first:
+      213: 5126171223954422220
+    second: Preview (14)SoftPink_22
+  - first:
+      213: -5256463206026083236
+    second: Preview (14)SoftPink_23
+  - first:
+      213: 601730162600776314
+    second: Preview (14)SoftPink_24
+  - first:
+      213: 1902059545077836094
+    second: Preview (14)SoftPink_25
+  - first:
+      213: -6504325366329724973
+    second: Preview (14)SoftPink_26
+  - first:
+      213: 1703719394843612972
+    second: Preview (14)SoftPink_27
+  - first:
+      213: 4079597463368795386
+    second: Preview (14)SoftPink_28
+  - first:
+      213: 5581074824145336690
+    second: Preview (14)SoftPink_29
+  - first:
+      213: 7825279209556946046
+    second: Preview (14)SoftPink_30
+  - first:
+      213: 1392027416242203742
+    second: Preview (14)SoftPink_31
+  - first:
+      213: 101621911370883368
+    second: Preview (14)SoftPink_32
+  - first:
+      213: 1079178413932581416
+    second: Preview (14)SoftPink_33
+  - first:
+      213: -5433511207170972684
+    second: Preview (14)SoftPink_34
+  - first:
+      213: 1832731445448290651
+    second: Preview (14)SoftPink_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0786d94387be990800000000000000
+      internalID: -7355653399005073219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 334
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b09ffb11c4dfc80800000000000000
+      internalID: -8287384100172919952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 334
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ba9cb54465f1730800000000000000
+      internalID: 3971988247961774942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 334
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15dbef3f356a2c70800000000000000
+      internalID: 8947074932054676766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 334
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f020cbc72902860800000000000000
+      internalID: 7503158043627097982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 334
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4195b51ed8d3795e0800000000000000
+      internalID: -1902984637960201964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbf8b9d5eb2d4e90800000000000000
+      internalID: -7039922376309933072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a16b4087069d750800000000000000
+      internalID: 6330196819837327943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 267
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec8a05a7f1ac8810800000000000000
+      internalID: 1768966838647688422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 201
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a74cb9685c191190800000000000000
+      internalID: -7991324897735587928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 267
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8c0ae4849653620800000000000000
+      internalID: 2753222506484648174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_11
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 201
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b48ae575277f440800000000000000
+      internalID: 4969566433402440513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 267
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c295c24bbe0bb30800000000000000
+      internalID: 4301196803209505803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_13
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 201
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f838df53487b430800000000000000
+      internalID: 3798650178131693465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_14
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 267
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0189cf70d131efbe0800000000000000
+      internalID: -1441693815303006192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 201
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb371537dae8ef390800000000000000
+      internalID: -7782626230434434113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_16
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 267
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7d5bf619d4221b0800000000000000
+      internalID: -5682894492748359755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 201
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6accaa68a4073fd0800000000000000
+      internalID: -2362414358141810068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14838514eb1776b0800000000000000
+      internalID: -5298735770150665186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 134
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f58fc575a7abb50800000000000000
+      internalID: 6609729918760148770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 134
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f54bad9f3ec2ee0800000000000000
+      internalID: -1284401131451818231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_21
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 133
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb25f092e8229760800000000000000
+      internalID: 7463072486066039787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_22
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 134
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9f1ad8191d32740800000000000000
+      internalID: 5126171223954422220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_23
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 134
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5487e5609a4d07b0800000000000000
+      internalID: -5256463206026083236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7215701566c95800800000000000000
+      internalID: 601730162600776314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 66
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3961062419756a10800000000000000
+      internalID: 1902059545077836094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 67
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfaa5c6a8efbb5a0800000000000000
+      internalID: -6504325366329724973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_27
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 67
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27d89e43c3d4a710800000000000000
+      internalID: 1703719394843612972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 67
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af48eae3744ad9830800000000000000
+      internalID: 4079597463368795386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_29
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 67
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279fe069bf5f37d40800000000000000
+      internalID: 5581074824145336690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c24e12bf9f89c60800000000000000
+      internalID: 7825279209556946046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ca8be4f89715310800000000000000
+      internalID: 1392027416242203742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82168a80798096100800000000000000
+      internalID: 101621911370883368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_33
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82298bbbc030afe00800000000000000
+      internalID: 1079178413932581416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_34
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f36875585a4894b0800000000000000
+      internalID: -5433511207170972684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preview (14)SoftPink_35
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5132a61a8b2f6910800000000000000
+      internalID: 1832731445448290651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Preview (14)SoftPink_0: -7355653399005073219
+      Preview (14)SoftPink_1: -8287384100172919952
+      Preview (14)SoftPink_10: 2753222506484648174
+      Preview (14)SoftPink_11: 4969566433402440513
+      Preview (14)SoftPink_12: 4301196803209505803
+      Preview (14)SoftPink_13: 3798650178131693465
+      Preview (14)SoftPink_14: -1441693815303006192
+      Preview (14)SoftPink_15: -7782626230434434113
+      Preview (14)SoftPink_16: -5682894492748359755
+      Preview (14)SoftPink_17: -2362414358141810068
+      Preview (14)SoftPink_18: -5298735770150665186
+      Preview (14)SoftPink_19: 6609729918760148770
+      Preview (14)SoftPink_2: 3971988247961774942
+      Preview (14)SoftPink_20: -1284401131451818231
+      Preview (14)SoftPink_21: 7463072486066039787
+      Preview (14)SoftPink_22: 5126171223954422220
+      Preview (14)SoftPink_23: -5256463206026083236
+      Preview (14)SoftPink_24: 601730162600776314
+      Preview (14)SoftPink_25: 1902059545077836094
+      Preview (14)SoftPink_26: -6504325366329724973
+      Preview (14)SoftPink_27: 1703719394843612972
+      Preview (14)SoftPink_28: 4079597463368795386
+      Preview (14)SoftPink_29: 5581074824145336690
+      Preview (14)SoftPink_3: 8947074932054676766
+      Preview (14)SoftPink_30: 7825279209556946046
+      Preview (14)SoftPink_31: 1392027416242203742
+      Preview (14)SoftPink_32: 101621911370883368
+      Preview (14)SoftPink_33: 1079178413932581416
+      Preview (14)SoftPink_34: -5433511207170972684
+      Preview (14)SoftPink_35: 1832731445448290651
+      Preview (14)SoftPink_4: 7503158043627097982
+      Preview (14)SoftPink_5: -1902984637960201964
+      Preview (14)SoftPink_6: -7039922376309933072
+      Preview (14)SoftPink_7: 6330196819837327943
+      Preview (14)SoftPink_8: 1768966838647688422
+      Preview (14)SoftPink_9: -7991324897735587928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
