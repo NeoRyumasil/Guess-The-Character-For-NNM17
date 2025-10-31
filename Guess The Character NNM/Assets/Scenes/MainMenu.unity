@@ -613,7 +613,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d24ed656ad2109442907ce7f093b0d39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _playScene: Difficulty Chooser
+  _playScene: DifficultyChooser
   _optionScene: Option
 --- !u!4 &643082361
 Transform:
@@ -953,7 +953,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 4319686589711454548, guid: b265122e406b5b84589fd0371736a954, type: 3}
+  m_Sprite: {fileID: 7554172630703476246, guid: dcae24051db3d9c4ab1d1f548b1fdd56, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
