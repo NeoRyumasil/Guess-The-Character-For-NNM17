@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: e09135422489e5d4eb18e1b4361af641
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1617025354098094413
+    second: Loid Forger - Black_0
+  - first:
+      213: -3887520705942957339
+    second: Loid Forger - Black_1
+  - first:
+      213: 8333316739005809848
+    second: Loid Forger - Black_2
+  - first:
+      213: -3375266391752768568
+    second: Loid Forger - Black_3
+  - first:
+      213: 4167100219960587953
+    second: Loid Forger - Black_4
+  - first:
+      213: -8787620267674068227
+    second: Loid Forger - Black_5
+  - first:
+      213: -6015127317945862346
+    second: Loid Forger - Black_6
+  - first:
+      213: -1478120379487858865
+    second: Loid Forger - Black_7
+  - first:
+      213: 7980998187252674231
+    second: Loid Forger - Black_8
+  - first:
+      213: -1942069161593227614
+    second: Loid Forger - Black_9
+  - first:
+      213: 8616222452655966779
+    second: Loid Forger - Black_10
+  - first:
+      213: 3313716216400969660
+    second: Loid Forger - Black_11
+  - first:
+      213: -8468424266262970168
+    second: Loid Forger - Black_12
+  - first:
+      213: -8947154979925011361
+    second: Loid Forger - Black_13
+  - first:
+      213: -8612241585679555372
+    second: Loid Forger - Black_14
+  - first:
+      213: -7797698743794294997
+    second: Loid Forger - Black_15
+  - first:
+      213: 7569877579360038835
+    second: Loid Forger - Black_16
+  - first:
+      213: 3730222749915063020
+    second: Loid Forger - Black_17
+  - first:
+      213: -1233106277638280599
+    second: Loid Forger - Black_18
+  - first:
+      213: 200216178306654754
+    second: Loid Forger - Black_19
+  - first:
+      213: -3164286875488158298
+    second: Loid Forger - Black_20
+  - first:
+      213: 3230335080499460421
+    second: Loid Forger - Black_21
+  - first:
+      213: -6090972674005053831
+    second: Loid Forger - Black_22
+  - first:
+      213: 2840236930695715209
+    second: Loid Forger - Black_23
+  - first:
+      213: -7559689242794137938
+    second: Loid Forger - Black_24
+  - first:
+      213: 3889760979974538363
+    second: Loid Forger - Black_25
+  - first:
+      213: 4519270603450906326
+    second: Loid Forger - Black_26
+  - first:
+      213: 1466233793177684026
+    second: Loid Forger - Black_27
+  - first:
+      213: 1675738714675386365
+    second: Loid Forger - Black_28
+  - first:
+      213: -8212605842311198703
+    second: Loid Forger - Black_29
+  - first:
+      213: -9125160986262342780
+    second: Loid Forger - Black_30
+  - first:
+      213: 1010374190131284176
+    second: Loid Forger - Black_31
+  - first:
+      213: 5771206798952930113
+    second: Loid Forger - Black_32
+  - first:
+      213: 204435364801335645
+    second: Loid Forger - Black_33
+  - first:
+      213: -5368807825333712374
+    second: Loid Forger - Black_34
+  - first:
+      213: -8091075727652509286
+    second: Loid Forger - Black_35
+  - first:
+      213: -349905638538950179
+    second: Loid Forger - Black_36
+  - first:
+      213: 3061042692625611342
+    second: Loid Forger - Black_37
+  - first:
+      213: 1025540058696820097
+    second: Loid Forger - Black_38
+  - first:
+      213: 8099525052559832855
+    second: Loid Forger - Black_39
+  - first:
+      213: -810875029605332624
+    second: Loid Forger - Black_40
+  - first:
+      213: -3744646501376155268
+    second: Loid Forger - Black_41
+  - first:
+      213: -853131191044065526
+    second: Loid Forger - Black_42
+  - first:
+      213: -8103352827946825287
+    second: Loid Forger - Black_43
+  - first:
+      213: -938876255148954664
+    second: Loid Forger - Black_44
+  - first:
+      213: -7462569226106658577
+    second: Loid Forger - Black_45
+  - first:
+      213: 3669587662290223410
+    second: Loid Forger - Black_46
+  - first:
+      213: 143613362817020446
+    second: Loid Forger - Black_47
+  - first:
+      213: -7730358116277655287
+    second: Loid Forger - Black_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Loid Forger - Black_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 854
+        height: 3298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bece20020c2f89e0800000000000000
+      internalID: -1617025354098094413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e25b41d380cc0ac0800000000000000
+      internalID: -3887520705942957339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4024d1c63e5a370800000000000000
+      internalID: 8333316739005809848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c303418915a821d0800000000000000
+      internalID: -3375266391752768568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6f332629384d930800000000000000
+      internalID: 4167100219960587953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa9344ece91c0680800000000000000
+      internalID: -8787620267674068227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637b617e299f58ca0800000000000000
+      internalID: -6015127317945862346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f4c55a859ac7be0800000000000000
+      internalID: -1478120379487858865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be6b30f09332ce60800000000000000
+      internalID: 7980998187252674231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6bef513626c05e0800000000000000
+      internalID: -1942069161593227614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3acd448ba8f29770800000000000000
+      internalID: 8616222452655966779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbff70d875facfd20800000000000000
+      internalID: 3313716216400969660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0091a5ffc1a7a80800000000000000
+      internalID: -8468424266262970168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54d33723f155d380800000000000000
+      internalID: -8947154979925011361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d429bd48eb2b7880800000000000000
+      internalID: -8612241585679555372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_15
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f91a67e4209c390800000000000000
+      internalID: -7797698743794294997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfe2fe2d8b9d0960800000000000000
+      internalID: 7569877579360038835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2a4c5d3d964c330800000000000000
+      internalID: 3730222749915063020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ae01faf5023eee0800000000000000
+      internalID: -1233106277638280599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222214aad8f47c200800000000000000
+      internalID: 200216178306654754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adf8131ad13614d0800000000000000
+      internalID: -3164286875488158298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54937a204a474dc20800000000000000
+      internalID: 3230335080499460421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e4155df94887ba0800000000000000
+      internalID: -6090972674005053831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9895014b07c8a6720800000000000000
+      internalID: 2840236930695715209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6e9e6cfa6961790800000000000000
+      internalID: -7559689242794137938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_25
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74ce80a0053bf530800000000000000
+      internalID: 3889760979974538363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d67e827baca7be30800000000000000
+      internalID: 4519270603450906326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a388700dddb195410800000000000000
+      internalID: 1466233793177684026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df798988b7b614710800000000000000
+      internalID: 1675738714675386365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1184eb8af76f60e80800000000000000
+      internalID: -8212605842311198703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_30
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483749f1e6aec5180800000000000000
+      internalID: -9125160986262342780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d88ff409f1950e00800000000000000
+      internalID: 1010374190131284176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_32
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b98e8a102771050800000000000000
+      internalID: 5771206798952930113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_33
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51d28291ec46d200800000000000000
+      internalID: 204435364801335645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_34
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a85af5ab92e75b0800000000000000
+      internalID: -5368807825333712374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_35
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99ac7a7e79b6bf80800000000000000
+      internalID: -8091075727652509286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_36
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9caf5fca2e42bf0800000000000000
+      internalID: -349905638538950179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a31406c120b7a20800000000000000
+      internalID: 3061042692625611342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185ae85ff337b3e00800000000000000
+      internalID: 1025540058696820097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_39
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717b4374f1b476070800000000000000
+      internalID: 8099525052559832855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_40
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 0
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079c32fe4713fb4f0800000000000000
+      internalID: -810875029605332624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_41
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71a014d8d7580cc0800000000000000
+      internalID: -3744646501376155268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_42
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 0
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07330ba3b11924f0800000000000000
+      internalID: -853131191044065526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_43
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b98290598b1b8f80800000000000000
+      internalID: -8103352827946825287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_44
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db2cc3350178f2f0800000000000000
+      internalID: -938876255148954664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_45
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 0
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0a626c3d0af6890800000000000000
+      internalID: -7462569226106658577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_46
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23107fa598efce230800000000000000
+      internalID: 3669587662290223410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_47
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1235b3b7973ef100800000000000000
+      internalID: 143613362817020446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loid Forger - Black_48
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90966bc104048b490800000000000000
+      internalID: -7730358116277655287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Loid Forger - Black_0: -1617025354098094413
+      Loid Forger - Black_1: -3887520705942957339
+      Loid Forger - Black_10: 8616222452655966779
+      Loid Forger - Black_11: 3313716216400969660
+      Loid Forger - Black_12: -8468424266262970168
+      Loid Forger - Black_13: -8947154979925011361
+      Loid Forger - Black_14: -8612241585679555372
+      Loid Forger - Black_15: -7797698743794294997
+      Loid Forger - Black_16: 7569877579360038835
+      Loid Forger - Black_17: 3730222749915063020
+      Loid Forger - Black_18: -1233106277638280599
+      Loid Forger - Black_19: 200216178306654754
+      Loid Forger - Black_2: 8333316739005809848
+      Loid Forger - Black_20: -3164286875488158298
+      Loid Forger - Black_21: 3230335080499460421
+      Loid Forger - Black_22: -6090972674005053831
+      Loid Forger - Black_23: 2840236930695715209
+      Loid Forger - Black_24: -7559689242794137938
+      Loid Forger - Black_25: 3889760979974538363
+      Loid Forger - Black_26: 4519270603450906326
+      Loid Forger - Black_27: 1466233793177684026
+      Loid Forger - Black_28: 1675738714675386365
+      Loid Forger - Black_29: -8212605842311198703
+      Loid Forger - Black_3: -3375266391752768568
+      Loid Forger - Black_30: -9125160986262342780
+      Loid Forger - Black_31: 1010374190131284176
+      Loid Forger - Black_32: 5771206798952930113
+      Loid Forger - Black_33: 204435364801335645
+      Loid Forger - Black_34: -5368807825333712374
+      Loid Forger - Black_35: -8091075727652509286
+      Loid Forger - Black_36: -349905638538950179
+      Loid Forger - Black_37: 3061042692625611342
+      Loid Forger - Black_38: 1025540058696820097
+      Loid Forger - Black_39: 8099525052559832855
+      Loid Forger - Black_4: 4167100219960587953
+      Loid Forger - Black_40: -810875029605332624
+      Loid Forger - Black_41: -3744646501376155268
+      Loid Forger - Black_42: -853131191044065526
+      Loid Forger - Black_43: -8103352827946825287
+      Loid Forger - Black_44: -938876255148954664
+      Loid Forger - Black_45: -7462569226106658577
+      Loid Forger - Black_46: 3669587662290223410
+      Loid Forger - Black_47: 143613362817020446
+      Loid Forger - Black_48: -7730358116277655287
+      Loid Forger - Black_5: -8787620267674068227
+      Loid Forger - Black_6: -6015127317945862346
+      Loid Forger - Black_7: -1478120379487858865
+      Loid Forger - Black_8: 7980998187252674231
+      Loid Forger - Black_9: -1942069161593227614
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
